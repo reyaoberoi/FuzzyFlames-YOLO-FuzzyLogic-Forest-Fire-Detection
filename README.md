@@ -1,0 +1,2 @@
+# FuzzyFlames-YOLO-FuzzyLogic-Forest-Fire-Detection
+Developed a hybrid forest fire detection system combining YOLOv8-based computer vision with a fuzzy logic inference engine to assess real-time fire risk levels. Implemented end-to-end pipelines for detection, risk scoring, and visualization using thermal imagery, achieving improved accuracy and reduced false alarms compared to baseline approaches. 
